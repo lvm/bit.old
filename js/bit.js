@@ -2,7 +2,7 @@
   var settings = {api_url: 'https://api.github.com/',
                   api_search_path: 'search/code?q=',
                   api_search_params: '+in:_posts+extension:markdown+repo:lvm/bit/',
-                  api_index_path: 'repos/lvm/bit/contents/_posts',
+                  api_index_path: 'repos/lvm/bit/contents/_posts?ref=gh-pages',
                   path: '_posts/',
                   md_ext: '.markdown',
                   source: 'p strong a',
