@@ -8,9 +8,9 @@ tags:
 - gggg  
 - vida  
 - programadores  
-- js
-- javascript
-- poemas
+- js  
+- javascript  
+- poemas  
 
 ---
 
